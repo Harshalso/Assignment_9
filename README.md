@@ -1,6 +1,5 @@
 # Assignment_9
-Programming in GIS 1
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Check if a number is divisible by 3</title>
